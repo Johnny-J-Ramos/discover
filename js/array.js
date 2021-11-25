@@ -1,12 +1,9 @@
-/* Array (vetores)
-   - Uma lista
-   - Agrupamentos de dados
-   
-   const name = [
-      "name":'Johnny',
-      "age": 27,
-      "profession": "Support"
-   ]
-*/
+const animals = [
+   'cavalo',
+   'vaca',
+   'boi',
+   'gato',
+   'cachorro',
+];
 
-console.log(["Johnny", 27, "Support"])
+console.log(animals[2, 4])
