@@ -45,12 +45,12 @@
 
 // console.log(copo);
 
-// Function SCOPE
+// Function SCOPE;
 
-let subject = 'create video'
 
-function createThink(subject) {
-   return subject
-}
 
-console.log(subject)
+
+ 
+
+
+
