@@ -1,56 +1,46 @@
-// CRIANDO FUNÇÕES
 
-// Paramentros dentro da uma função
-// const sum = function(Number1, Number2) {
-//    total = Number1 + Number2;
-//    return total;
-// }
+// ## 001 CRIANDO UMA FUNCTION ANONIMA - ANONYMOUS
+      // const sum = function(Number1, Number2) { // dentro da function, é passado os parametros 
+      //    let total = Number1 + Number2 
+      //    return total
+      
+      // }
 
+      // // sum(2, 3) //argumentos
 
-// let number1 = 32;
-// let number2 = 3232;
+      // let number1 = 40;
+      // let number2 = 443;
 
-// console.log(`O número 1 é ${number1}`);
-// console.log(`O número 2 é ${number2}`);
-// console.log(`a soma é ${sum(number1, number2)}`);
+      // console.log(`O numero 1 é ${number1}`)
+      // console.log(`O número 2 é ${number2}`)
+      // console.log(`A soma é ${sum(number1, number2)}`)
 
+//## 2º Exemplo de Function
 
-// DateNas(4,5) //é passado argumento dentro
+      // function fazerSuco(fruta1, fruta2) {
+      //    let total = fruta1 + fruta2;
+      //    return total;
+      // }
+      
+      // const copo = Liquidificador('maça', 'Banana') //arguentos
 
-
-
-
-// const sum = function(number1, number2){
-//   var total = number1 + number2
-//    return total
-// }
-
-// let number1 = 342
-// let number2 = 4232
+      // console.log(copo)
 
 
-// console.log(`O número 1 é ${number1}`)
-// console.log(`O número 2 é ${number2}`)
-// console.log(`a soma é ${sum(number1, number2)}`)
+// ## 002 FUNCTION SCOPE 
+      // let subject = 'creat video'
 
-// Outro Exemplo
+      // function createThink(subject) {
+      //    subject = 'styd'
+      //    return subject
+      // }
 
-// function fazerSuco(fruta1, fruta2) {
-//    let total = fruta1 + fruta2; //carametro
-//    return total;
-
-// }
-
-// let copo = fazerSuco('banana', 'maça'); // argumentos
-
-// console.log(copo);
-
-// Function SCOPE;
+      // console.log(createThink(subject))
+      // console.log(subject)
 
 
+// ## 003 FUNCTION HOISTING - SOBREPOSIÇÃO
 
-
- 
 
 
 
