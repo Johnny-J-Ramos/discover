@@ -78,7 +78,7 @@ let date = new Date();
     // console.log(x)
 
 
-// Operadores lógicos 
+// Operadores lógicos (logical operators)
 
 
     
