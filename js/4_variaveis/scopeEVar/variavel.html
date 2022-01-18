@@ -1,0 +1,22 @@
+<script>
+// var é global e, também local
+// hosting
+// console.log('> existe x antes do bloco? ', x)
+// {
+//     var x = 0
+// }
+// console.log('> existe x antes do bloco? ', x)
+
+// ele sabe que existe mas não atribui
+{
+    console.log('existe y antes?', y)
+    let y = 0
+}
+
+// const não muda, dentro ou fora do escopo. Precisa SEMPRE definir
+{
+    const y = 0
+    console.log('existe y antes?', y)
+}
+
+</script>
