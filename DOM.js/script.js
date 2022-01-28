@@ -1,2 +1,25 @@
 // Para acessar propriedade e metodos é atravez do "."
-document.body('h1')
+// getElementById()
+document.getElementById('blog-title') (
+   //  alert()
+)
+
+// PEGAR OS ELEMENTOS POR CLASS
+// getElementsByClassName()
+
+const element = 
+document.getElementsByClassName('home') (
+   alert()
+)
+
+//PEGAR ELEMENTO PELO NOME DA TAG
+// getElementsByTagName()
+Document.elementsByTagName('h1') (
+   alert()
+)
+Document.elementsByTagName('h1') (
+   alert()
+)
+
+//dominad
+
