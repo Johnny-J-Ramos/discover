@@ -17,9 +17,5 @@ document.getElementsByClassName('home') (
 Document.elementsByTagName('h1') (
    alert()
 )
-Document.elementsByTagName('h1') (
-   alert()
-)
 
-//dominad
 
